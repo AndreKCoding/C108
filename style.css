@@ -1,0 +1,46 @@
+body
+{
+    background-color: rgb(185, 255, 255);
+}
+
+#header
+{
+    position: fixed;
+    color: #43a7ff;
+    top: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: #bee5ff;
+    line-height: 3;
+    text-align: center;
+}
+
+.main_div
+{
+    margin-top: 15%;
+}
+
+button
+{
+    background-color: rgb(255, 220, 155);
+    width: 200;
+    font-size: 30px;
+    border-radius: 10%;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: #000000;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: #bee5ff;
+    line-height: 3;
+    text-align: center;
+ }
+
+ p 
+ {
+    font-size: 20px;
+ }
